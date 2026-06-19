@@ -27,7 +27,7 @@ Los archivos convertidos se guardan en `optimizadas/`.
 
 ```bash
 git clone <URL_DEL_REPO>
-cd fotosdecarpeta_webp
+cd image-folder-to-webp
 ```
 
 ### 2) Crear y activar entorno virtual (recomendado)
@@ -78,7 +78,7 @@ sudo apt install -y poppler-utils
 ## Estructura esperada
 
 ```text
-fotosdecarpeta_webp/
+image-folder-to-webp/
 ├─ init.py
 ├─ fotos/
 │  ├─ carpeta1/
